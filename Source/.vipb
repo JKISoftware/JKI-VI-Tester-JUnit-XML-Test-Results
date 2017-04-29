@@ -1,5 +1,7 @@
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2011-12-14 23:17:00" Modified_Date="2017-04-29 14:48:37" Creator="Omar Mussa" Comments="" ID="18d9927d91eb1a9ceb99f0147b136e74">
   <Library_General_Settings>
     <Package_File_Name>jki_lib_vi_tester_junit_xml_results</Package_File_Name>
+    <Library_Version>2.0.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
