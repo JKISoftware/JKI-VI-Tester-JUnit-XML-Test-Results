@@ -21,6 +21,8 @@ Open the example (with the white icon on the right side)
 
 You can see how this would allow you to create a VI that (1) runs all the tests in your LabVIEW project and (2) outputs the results to a specific location that Jenkins is looking for Test Results.
 
+![2017-04-30_09-00-53](https://cloud.githubusercontent.com/assets/381432/25565811/8f8abf00-2d83-11e7-83ce-680bec42534c.png)
+
 ## Contributing
 
 1. Fork it!
