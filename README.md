@@ -23,10 +23,13 @@ You can see how this would allow you to create a VI that (1) runs all the tests 
 
 ![2017-04-30_09-00-53](https://cloud.githubusercontent.com/assets/381432/25565811/8f8abf00-2d83-11e7-83ce-680bec42534c.png)
 
+You can pass this XML file to Jenkins as the Test Result: 
+~~~~
 <testsuite name="TestSuite">
 <testcase classname="Queue TestCase" name="test Queue Reference is Valid" time="0.0089998245239258"/>
 <testcase classname="Queue TestCase" name="test Queue Size is Zero" time="0.013999938964844"/>
-</testsuite>
+</testsuite>	
+~~~~
 
 ## Contributing
 
