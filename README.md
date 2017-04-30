@@ -1,6 +1,6 @@
 # JUnit XML TestResults plugin for JKI VI Tester
 
-This [VI Tester](http://github.com/JKISoftware/VI-Tester) add-on contains a simple Text Test Runner class that outputs test results in [JUnit XML format](https://github.com/windyroad/JUnit-Schema) that is supported by the [Jenkins](https://jenkins.io/) build automation tool for reporting on unit tests via the [Jenkins JUnit plugin](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin])
+This [VI Tester](http://github.com/JKISoftware/JKI-VI-Tester) add-on contains a simple Text Test Runner class that outputs test results in [JUnit XML format](https://github.com/windyroad/JUnit-Schema) that is supported by the [Jenkins](https://jenkins.io/) build automation tool for reporting on unit tests via the [Jenkins JUnit plugin](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin])
 
 ## Installation
 
