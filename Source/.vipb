@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2011-12-14 23:17:00" Modified_Date="2017-04-29 14:48:37" Creator="Omar Mussa" Comments="" ID="18d9927d91eb1a9ceb99f0147b136e74">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2011-12-14 23:17:00" Modified_Date="2017-05-01 16:51:02" Creator="Omar Mussa" Comments="" ID="780072c92fabd3229c86af420e7fe9ae">
   <Library_General_Settings>
     <Package_File_Name>jki_lib_vi_tester_junit_xml_results</Package_File_Name>
-    <Library_Version>2.0.0.16</Library_Version>
+    <Library_Version>2.0.1.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -24,7 +24,7 @@
       <External_Dependencies>oglib_file &gt;= 4.0.1.22</External_Dependencies>
       <External_Dependencies>oglib_lvdata &gt;= 4.2.0.21</External_Dependencies>
       <External_Dependencies>oglib_string &gt;= 4.1.0.12</External_Dependencies>
-      <Additional_External_Dependencies>jki_rsc_palette &gt;=1.1</Additional_External_Dependencies>
+      <Additional_External_Dependencies>jki_rsc_toolkits_palette &gt;=1.1</Additional_External_Dependencies>
       <Package_Conflicts>jki_lib_vi_tester_ant_plugin &gt;=0.0</Package_Conflicts>
       <Direct_Dependencies>jki_labs_tool_vi_tester-2.0.0.285-1</Direct_Dependencies>
       <Direct_Dependencies>jki_lib_easyxml-3.0.0.170</Direct_Dependencies>
@@ -49,7 +49,8 @@
       <Copyright/>
       <Packager>JKI</Packager>
       <URL>http://github.com/JKISoftware/JKI-VI-Tester-JUnit-XML-Test-Results</URL>
-      <Release_Notes>Initial release on GitHub</Release_Notes>
+      <Release_Notes>- 2.0 - Initial release on GitHub
+- 2.0.1 - Fixed dependency on jki_rsc_toolkits_palette</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -260,7 +261,7 @@
         <Path>VI Tester JUnitXML Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>342402FE644CF2835F8BCDC43EF6A735</GUID>
+      <GUID>849A4641B48A6350C0C65919B3C672C0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
